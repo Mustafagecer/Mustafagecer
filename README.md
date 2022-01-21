@@ -1,4 +1,4 @@
-<img src="https://github.com/Mustafagecer/test/blob/main/photo.jpg">
+<img src="https://github.com/Mustafagecer/test/blob/main/QA.JPG">
 
 <h1 align="center"> Hi, 👋 I'm Mustafa Gecer </h1>
 
